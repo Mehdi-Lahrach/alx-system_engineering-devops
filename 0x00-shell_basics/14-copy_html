@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ru --update --target-directory=../ --exclude='.*' --suffix=.bak *.html
+cp -un *.html ../
